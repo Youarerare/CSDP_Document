@@ -9,7 +9,7 @@ Welcome to CSDP_docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: 中文语义依存分析
+   :caption: Contents:中文语义依存分析
 
    NLPinBLCU
    Chapter1/chapter1
