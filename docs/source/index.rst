@@ -15,6 +15,7 @@ Welcome to CSDP_docs's documentation!
    Chapter1/chapter1
    Chapter2/chapter2
    Chapter3/chapter3
+   Chapter4/chapter4
 
 
 
