@@ -16,11 +16,11 @@ Welcome to CSDP documentation!
    语义关系概述
    语义结构关系的标注细则
    语义依附标记的标注细则
-   语义周边角色的标注细则
+   语义周边角色标注细则
    中枢论元的标注细则
    特殊结构标注集
    结语
-   Chapter3/chapter3
+   
 
 
 
